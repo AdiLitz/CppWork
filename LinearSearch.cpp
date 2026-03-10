@@ -17,6 +17,7 @@ int main(){
     cin>>size;
     cout<<"Enter the target number: ";
     cin>>target;
+    cout<<"Enter elements of the array: "<<endl;
     for(int i=0;i<size;i++){
         cin>> arr[i];
     }
